@@ -1,4 +1,4 @@
-# USA_Bike-_Sharing-Prediction-Case-Study
+# USA_Bike_Sharing-Prediction-Case-Study
 
 
 ## Problem Statement
@@ -34,3 +34,6 @@ In the dataset provided, you will notice that there are three columns named 'cas
 
 ## Model Evaluation:
 When you're done with model building and residual analysis and have made predictions on the test set, just make sure you use the following two lines of code to calculate the R-squared score on the test set.
+
+## Conclusion/Summary:
+Sharing in Presentation form
